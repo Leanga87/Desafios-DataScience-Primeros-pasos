@@ -14,6 +14,7 @@ Este repositorio contiene los ejercicios prácticos que estoy realizando durante
 | 2  | Condicionales y Lógica                   | [Desafío-2 ¡Es hora de practicar!.ipynb](Desafío-2 ¡Es hora de practicar!.ipynb) |
 | 3  | Sistema de Votación                      | [Desafio-3_ ¡Es hora de practicar!.ipynb](Desafio-3_ ¡Es hora de practicar!.ipynb) |
 | 4  | Validación de Entradas y Depuración de Votos | [Desafío_4_¡Es_hora_de_practicar!.ipynb](Desafío_4_¡Es_hora_de_practicar!.ipynb) |
+| 5  | Estructuras de Datos: Listas y Diccionarios | [Desafio_5_Estructuras_de_datos.ipynb](Desafio_5_Estructuras_de_datos.ipynb)   |
 
 ---
 
@@ -87,7 +88,21 @@ Ingrese su voto (1 a 6): abc
 Voto inválido, debe ingresar un número
 Ingrese su voto (1 a 6): 5
 ```
+## 🗂️ Desafío 5: Estructuras de Datos: Listas y Diccionarios
 
+**Temas abordados:**
+- Creacion y manipulacion de listas.
+- Uso de diccionarios para almacenar informacion.
+- Realizacion de calculos y analisis basicos con estas estructuras.
+
+**Ejemplo de ejercicio:**
+**Ejemplo de ejercicio:**
+```python
+gastos = [2172.54, 3701.35, 3518.09]
+promedio = sum(gastos) / len(gastos)
+print(f'Promedio de gastos: {promedio:.2f}')
+
+```
 ---
 
 ## 🧑‍💻 Sobre mí
@@ -102,6 +117,7 @@ Estoy en proceso de formación como **científico de datos**, comprometido con e
 - `Desafío-2 ¡Es hora de practicar!.ipynb`
 - `Desafio-3_ ¡Es hora de practicar!.ipynb`
 - `Desafío_4_¡Es_hora_de_practicar!.ipynb`
+- `Desafio_5_Estructuras_de_datos.ipynb`
 
 ---
 
