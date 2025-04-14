@@ -123,4 +123,3 @@ Gracias por visitar este proyecto ✨
 =======
 # Desafios-DataScience-Primeros-pasos
 Ejercicios en GoogleColab del curso de Alura Latam en Data Science con Python
->>>>>>> cb72eb41a4028d2f1705fced29029529d7d25089
